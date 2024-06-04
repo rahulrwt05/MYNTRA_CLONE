@@ -54,7 +54,7 @@ header {
   padding: 0 1vw 1.82vw;
 }
 
-.nav_bar .border_bottom :hover {
+.nav_bar .border_bottom :hover {color:#f41cb2;
   transition: border-bottom 0.07s ease-in;
   border-bottom: 0.26vw solid #f41cb2;
 }
